@@ -1,3 +1,3 @@
-from src.WineProject.logging import logger
+from WineProject import logger
 
 logger.info("This is our custom log!")
