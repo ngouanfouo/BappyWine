@@ -1,5 +1,6 @@
 pandas
 notebook
+scipy
 numpy
 scikit-learn
 matplotlib
